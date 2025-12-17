@@ -40,7 +40,7 @@ There will be multiple tickets associated with each event, therefore, the event 
 
 **Front-end Development**
 
-      User-Friendly Graphical User Interfaces (GUIs) are created using the JavaFX Application Platform. The GUI provides an interface that includes tables (for displaying events and tickets)and forms (for               adding/updating/deleting records).
+ User-Friendly Graphical User Interfaces (GUIs) are created using the JavaFX Application Platform. The GUI provides an interface that includes tables (for displaying events and tickets)and forms (for  adding/updating/deleting records).
 
 **CRUD Operations**
 
