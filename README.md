@@ -53,12 +53,14 @@ There will be multiple tickets associated with each event, therefore, the event 
 6.**Results**
 
   The application was successful in providing users with easy access to their events and tickets,as well as being able to perform CRUD operations against the database; all CRUD operations performed against the  database are also immediately reflected on the application’s GUI; Screenshots of the application and database queries show success in this area.
+  
 7.**Challenges and Solutions**
 
      The main challenge faced by the development team was keeping the GUI and the database in sync; the team was able to solve
      this by re-loading the data after each CRUD operation was performed.
 	 
 8.**Conclusion and Future Enhancements**
+
     The project provides an effective implementation of the MySQL, Java and JavaFX software products.
     Future enhancements could include increased validation capabilities,
     user authentication and reporting  functionalities.
