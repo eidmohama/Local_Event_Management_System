@@ -40,9 +40,9 @@ There will be multiple tickets associated with each event, therefore, the event 
       User-Friendly Graphical User Interfaces (GUIs) are created using the JavaFX Application Platform. The GUI provides an interface that includes tables (for displaying events and tickets)and forms (for               adding/updating/deleting records).
 
 **CRUD Operations**
-	1. **Create:** create new events and tickets
-	2. **Read**: Load application data stored in the database to be displayed in tables
-    3. **Update**: Update existing records in the database
+	1.**Create:** create new events and tickets
+	2.**Read**: Load application data stored in the database to be displayed in tables
+    3.**Update**: Update existing records in the database
     4.**Delete**: Delete events and related tickets from the database
 
 ____________
@@ -55,18 +55,18 @@ ____________
 
 6.**Results**
 
-   The application was successful in providing users with easy access to their events and tickets, as well as being able to perform CRUD operations against the database; 
-   all CRUD operations performed against the  database are also immediately reflected on the application’s GUI; Screenshots of the application and database queries show success in this area.
+     The application was successful in providing users with easy access to their events and tickets, as well as being able to perform CRUD operations against the database; 
+     all CRUD operations performed against the  database are also immediately reflected on the application’s GUI; Screenshots of the application and database queries show success in this area.
 
 
 7. **Challenges and Solutions**
 
-   The main challenge faced by the development team was keeping the GUI and the database in sync; the team was able to solve
-    this by re-loading the data after each CRUD operation was performed.
+     The main challenge faced by the development team was keeping the GUI and the database in sync; the team was able to solve
+     this by re-loading the data after each CRUD operation was performed.
 
 9. **Conclusion and Future Enhancements**
  
-  The project provides an effective implementation of the MySQL, Java and JavaFX software products.
-  Future enhancements could include increased validation capabilities,
-  user authentication and reporting  functionalities.
+    The project provides an effective implementation of the MySQL, Java and JavaFX software products.
+    Future enhancements could include increased validation capabilities,
+    user authentication and reporting  functionalities.
 
