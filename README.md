@@ -19,15 +19,15 @@ Local Event Management System is an event management application developed in Ja
 
 **Event Table**
 
-    1.id (Primary Key)
+    1. id(Primary Key)
     2. event_name
     3. event_location
     4. event_date
     
 **Ticket Table**
 
-    1. id (Primary Key)
-    2. event_id (Foreign Key)
+    1.id (Primary Key)
+    2.event_id (Foreign Key)
     
 **ticket_price**
 There will be multiple tickets associated with each event, therefore, the event and ticket tables will have a one-to-many relationship.
@@ -41,10 +41,10 @@ There will be multiple tickets associated with each event, therefore, the event 
 
 **CRUD Operations**
 
-	1.**Create:** create new events and tickets
-	2.**Read**: Load application data stored in the database to be displayed in tables
-    3.**Update**: Update existing records in the database
-    4.**Delete**: Delete events and related tickets from the database
+	1.**Create** create new events and tickets
+	2.**Read**Load application data stored in the database to be displayed in tables
+    3.**Update** Update existing records in the database
+    4.**Delete** Delete events and related tickets from the database
 
 5.**Error Handling and Validation**
    
