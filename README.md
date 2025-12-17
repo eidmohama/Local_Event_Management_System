@@ -49,9 +49,9 @@ There will be multiple tickets associated with each event, therefore, the event 
 ____________
 5. **Error Handling and Validation**
    
-   Basic validation ensures that fields marked as required (not null) and ticket prices are valid numbers.
-   In addition to basic validation, exception handling was implemented in the application to help prevent
-    errors from crashing the application and to gracefully handle errors associated with the database.
+     Basic validation ensures that fields marked as required (not null) and ticket prices are valid numbers.
+     In addition to basic validation, exception handling was implemented in the application to help prevent
+     errors from crashing the application and to gracefully handle errors associated with the database.
 
 
 6.**Results**
