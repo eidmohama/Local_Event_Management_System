@@ -42,8 +42,11 @@ There will be multiple tickets associated with each event, therefore, the event 
 **CRUD Operations**
 
  1.**Create** create new events and tickets
+ 
  2.**Read** Load application data stored in the database to be displayed in tables
+ 
  3.**Update** Update existing records in the database
+ 
  4.**Delete** Delete events and related tickets from the database
 
 5.**Error Handling and Validation**
