@@ -18,14 +18,17 @@ Local Event Management System is an event management application developed in Ja
 **The Local Event Management System's Database contains 2 tables:**
 
 **Event Table**
+
     1.id (Primary Key)
     2. event_name
     3. event_location
     4. event_date
     
 **Ticket Table**
+
     1. id (Primary Key)
     2. event_id (Foreign Key)
+    
 **ticket_price**
 There will be multiple tickets associated with each event, therefore, the event and ticket tables will have a one-to-many relationship.
 
