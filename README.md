@@ -51,7 +51,6 @@ ____________
    
  Basic validation ensures that fields marked as required (not null) and ticket prices are valid numbers.  In addition to basic validation, exception handling was implemented in the application to help prevent errors from crashing the application and to gracefully handle errors associated with the database.
 
-
 6.**Results**
 
   The application was successful in providing users with easy access to their events and tickets,as well as being able to perform CRUD operations against the database; all CRUD operations performed against the  database are also immediately reflected on the application’s GUI; Screenshots of the application and database queries show success in this area.
@@ -60,7 +59,6 @@ ____________
 
      The main challenge faced by the development team was keeping the GUI and the database in sync; the team was able to solve
      this by re-loading the data after each CRUD operation was performed.
-
 9. **Conclusion and Future Enhancements**
  
     The project provides an effective implementation of the MySQL, Java and JavaFX software products.
