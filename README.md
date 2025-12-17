@@ -54,9 +54,7 @@ ____________
 
 6.**Results**
 
-     The application was successful in providing users with easy access to their events and tickets, as well as being able to perform CRUD operations against the database; 
-     all CRUD operations performed against the  database are also immediately reflected on the application’s GUI; Screenshots of the application and database queries show success in this area.
-
+  The application was successful in providing users with easy access to their events and tickets,as well as being able to perform CRUD operations against the database; all CRUD operations performed against the  database are also immediately reflected on the application’s GUI; Screenshots of the application and database queries show success in this area.
 
 7. **Challenges and Solutions**
 
