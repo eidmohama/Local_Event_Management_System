@@ -27,6 +27,7 @@ Local Event Management System is an event management application developed in Ja
 **Ticket Table**
 
  1.id (Primary Key)
+ 
  2.event_id (Foreign Key)
     
 **ticket_price**
