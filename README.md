@@ -19,10 +19,10 @@ Local Event Management System is an event management application developed in Ja
 
 **Event Table**
 
-    1. id(Primary Key)
-    2. event_name
-    3. event_location
-    4. event_date
+ 1. id(Primary Key)
+  2. event_name
+  3. event_location
+  4. event_date
     
 **Ticket Table**
 
