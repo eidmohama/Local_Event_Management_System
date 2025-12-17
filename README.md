@@ -60,6 +60,5 @@ There will be multiple tickets associated with each event, therefore, the event 
 	 
 8.**Conclusion and Future Enhancements**
 
-    The project provides an effective implementation of the MySQL, Java and JavaFX software products.
-	Future enhancements could include increased validation capabilities user authentication and reporting functionalities.
+    The project provides an effective implementation of the MySQL, Java and JavaFX software products Future enhancements could include increased validation capabilities user authentication and reporting functionalities.
 
