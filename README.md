@@ -26,18 +26,20 @@ Local Event Management System is an event management application developed in Ja
     
 **Ticket Table**
 
-  1.id (Primary Key)
-  2.event_id (Foreign Key)
+  1. id (Primary Key)
+   2. event_id (Foreign Key)
     
 **ticket_price**
 
 There will be multiple tickets associated with each event, therefore, the event and ticket tables will have a one-to-many relationship.
 
 **4. Implementation**
+
   Back-end Development
     The back-end portion of the application was developed using the Java programming language. Java Data Access Objects (DAOs) are used to represent the various data entities in the application via SQL statements      to perform Create, Read, Update and Delete (CRUD) operations.
 
 **Front-end Development**
+
       User-Friendly Graphical User Interfaces (GUIs) are created using the JavaFX Application Platform. The GUI provides an interface that includes tables (for displaying events and tickets)and forms (for               adding/updating/deleting records).
 
 **CRUD Operations**
