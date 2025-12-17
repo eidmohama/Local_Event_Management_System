@@ -40,6 +40,7 @@ There will be multiple tickets associated with each event, therefore, the event 
       User-Friendly Graphical User Interfaces (GUIs) are created using the JavaFX Application Platform. The GUI provides an interface that includes tables (for displaying events and tickets)and forms (for               adding/updating/deleting records).
 
 **CRUD Operations**
+
 	1.**Create:** create new events and tickets
 	2.**Read**: Load application data stored in the database to be displayed in tables
     3.**Update**: Update existing records in the database
