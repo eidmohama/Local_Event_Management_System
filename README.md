@@ -13,7 +13,9 @@ Local Event Management System is an event management application developed in Ja
       5.A layered approach to software architecture provides advantages of improved maintainability, scalability and codebase clarity.
 
 **3. Database Design****
+
 **The Local Event Management System's Database contains 2 tables:**
+
 **Event Table**
     1) id (Primary Key)
     2) event_name
@@ -23,5 +25,6 @@ Local Event Management System is an event management application developed in Ja
     1) id (Primary Key)
     2) event_id (Foreign Key)
 **ticket_price**
+
 There will be multiple tickets associated with each event, therefore, the event and ticket tables will have a one-to-many relationship.
 
