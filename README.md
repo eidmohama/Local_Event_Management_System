@@ -41,14 +41,14 @@ There will be multiple tickets associated with each event, therefore, the event 
 
 **CRUD Operations**
 
-    1.**Create** create new events and tickets
+ 1.**Create** create new events and tickets
  
-    2.**Read** Load application data stored in the database to be displayed in tables
+  2.**Read** Load application data stored in the database to be displayed in tables
  
-    3.**Update** Update existing records in the database
+  3.**Update** Update existing records in the database
  
-    4.**Delete** Delete events and related tickets from the database
-
+  4.**Delete** Delete events and related tickets from the database
+	
 5. **Error Handling and Validation**
    
  Basic validation ensures that fields marked as required (not null) and ticket prices are valid numbers.  In addition to basic validation, exception handling was implemented in the application to help prevent errors from crashing the application and to gracefully handle errors associated with the database.
