@@ -49,19 +49,19 @@ There will be multiple tickets associated with each event, therefore, the event 
  
    4.**Delete** Delete events and related tickets from the database
 
-5.**Error Handling and Validation**
+5. **Error Handling and Validation**
    
  Basic validation ensures that fields marked as required (not null) and ticket prices are valid numbers.  In addition to basic validation, exception handling was implemented in the application to help prevent errors from crashing the application and to gracefully handle errors associated with the database.
 
-6.**Results**
+6. **Results**
 
   The application was successful in providing users with easy access to their events and tickets,as well as being able to perform CRUD operations against the database; all CRUD operations performed against the  database are also immediately reflected on the application’s GUI; Screenshots of the application and database queries show success in this area.
   
-7.**Challenges and Solutions**
+7. **Challenges and Solutions**
 
   The main challenge faced by the development team was keeping the GUI and the database in syncthe team was able to solve this by re-loading the data after each CRUD operation was performed.
 	 
-8.**Conclusion and Future Enhancements**
+8. **Conclusion and Future Enhancements**
 
 The project provides an effective implementation of the MySQL, Java and JavaFX software products Future enhancements could include increased validation capabilities user authentication and reporting functionalities.
 ر
