@@ -148,7 +148,7 @@ public class HelloApplication extends Application {
             if (ev != null) {
                 TicketDAO.addTicket(new Ticket(ev.getId(), priceSpinner.getValue()));
                 loadTickets(ev.getId());
-                priceSpinner.getValueFactory().setValue(0.0); // پاک کردن پس از افزودن
+                priceSpinner.getValueFactory().setValue(0.0); 
             }
         });
 
